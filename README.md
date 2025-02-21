@@ -5,6 +5,6 @@
  ## What is the YetGen Core Python Program?
   The YetGen Core Python Program is a 12-week paid training course designed and delivered by YetGen. It aims to help participants progress from beginner to intermediate-advanced levels in Python programming. The course follows a "Flipped Learning" model, featuring two 90-minute live classes and workshops each week. Prior to the live sessions, participants are provided with preparatory videos and exercises, allowing them to reinforce their understanding during classes. By the end of the program, students complete a project, applying their skills to real-world scenarios.
 
-  [Google](https://yetkingencler.com/hakkimizda?utm_source=chatgpt.com)
+  [YetGen](https://yetkingencler.com/hakkimizda?utm_source=chatgpt.com)
 
  ![Example Image](https://miro.medium.com/v2/resize:fit:910/1*jbz6ImV3RT_vNzSvSHW_Fg.png)
