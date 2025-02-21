@@ -7,4 +7,4 @@
 
   [ Google] (https://yetkingencler.com/hakkimizda?utm_source=chatgpt.com)
 
-  ! [] (https://miro.medium.com/v2/resize:fit:910/1*jbz6ImV3RT_vNzSvSHW_Fg.png)
+  ![YetGen] (https://miro.medium.com/v2/resize:fit:910/1*jbz6ImV3RT_vNzSvSHW_Fg.png)
