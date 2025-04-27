@@ -1,0 +1,10 @@
+Normal Kişiler:
+İsim: Ebrar 
+Soyisim: Kalfaoğlu
+Yas: 22
+
+Fazla Kilolu Kişiler:
+İsim: Zeynep 
+Soyisim: Kalfaoğlu
+Yas: 35
+
